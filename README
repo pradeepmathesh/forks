@@ -1,0 +1,6 @@
+These are some of the softwares I tweaked for personal needs.
+1. scite.7z - Implemented `grep it` feature for SciTE editor
+2. nosquint@urandom.ca.xpi - NoSquint is a firefox addon. I tweaked it for fixed level `zoom in` or `zoom out`
+3. pulidta@downthemall.net.xpi - DownloadThemAll allows you to download pages by hyperlinks.
+But this tweaked addon allows you to download the `hyperlink list` itself from a page---useful for external
+processing. The name `puli` is inspired by the user puli@cenhpc.org. Yes! You guessed it. It's Swats cats!!
